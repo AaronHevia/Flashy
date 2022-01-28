@@ -1,4 +1,3 @@
-import random
 from tkinter import *
 import pandas as pd
 from random import choice
